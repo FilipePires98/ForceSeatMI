@@ -1,4 +1,4 @@
-# ForceSeatMI-ScheduledInteraction
+# ForceSeatMI
 A Study on MotionSystem's ForceSeatMI SDK for Programmatic Platform Interaction
 
 [MotionSystems](https://motionsystems.eu/) | 
@@ -10,7 +10,7 @@ A Study on MotionSystem's ForceSeatMI SDK for Programmatic Platform Interaction
 ![](https://img.shields.io/badge/Language-C%20Sharp-lightgrey)
 ![](https://img.shields.io/badge/License-MIT-lightgrey)
 
-![wallpaper](https://github.com/FilipePires98/ForceSeatMI-ScheduledInteraction/blob/main/img/MotionSystems.png)
+![wallpaper](https://github.com/FilipePires98/ForceSeatMI/blob/main/img/MotionSystems.png)
 
 ## Description
 
@@ -33,8 +33,8 @@ Assuming all dependencies are complied, a direct usage by opening the project in
 Make sure you follow all of the security measures provided by MotionSystems.
 
 <p float="left">
-  <img src="https://github.com/FilipePires98/ForceSeatMI-ScheduledInteraction/blob/main/img/UnityCapture.gif" width="360px">
-  <img src="https://github.com/FilipePires98/ForceSeatMI-ScheduledInteraction/blob/main/img/LiveCapture.gif" width="360px">
+  <img src="https://github.com/FilipePires98/ForceSeatMI/blob/main/img/UnityCapture.gif" width="360px">
+  <img src="https://github.com/FilipePires98/ForceSeatMI/blob/main/img/LiveCapture.gif" width="360px">
 </p>
 
 ## Credits
